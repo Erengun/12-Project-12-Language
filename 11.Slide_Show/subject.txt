@@ -1,0 +1,5 @@
+Create a slideshow to loop over 5k images faster than you could manually.
+ The slideshow will indeed be longer if I set slide_interval=5000 for example, 
+ but it makes no differnce if I set it to 500,50 or 5, 
+ it will still take approximately same number of seconds to display each image, 
+ while what I would be interested in would be 1 or 0.5 seconds spent per image.

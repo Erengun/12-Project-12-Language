@@ -1,0 +1,10 @@
+Build a GUI-based To Do List 
+
+About To-Do Lists
+To-Do Lists are actually a list of your daily tasks that you keep on your person to remind yourself of the tasks you have to accomplish that day. 
+In this project, you are going to make a GUI based to-do list with options to add and delete items in your list.
+
+Your main page will display all of your to-do lists. 
+By clicking the Add a new list button, you’ll display a page where you can name and create a new list:
+
+You’ll be able to add to-do items to your list by clicking Add a new item. There, you can give your item a title, and you can add more details in the Description box. You can even set a due date.

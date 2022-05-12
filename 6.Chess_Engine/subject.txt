@@ -1,0 +1,32 @@
+Create a chess engine which implements:
+
+Alpha-beta pruning for move searching
+Move ordering based off heuristics like captures and promotions
+Tomasz Michniewski's Simplified Evaluation Function for board evaluation and piece-square tables
+A slice of the Universal Chess Interface (UCI) to allow challenges via lichess.org
+A command-line user interface
+
+Start as [w]hite or [b]lack:
+w
+
+  8 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+  7 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+  6 · · · · · · · · 
+  5 · · · · · · · ·
+  4 · · · · · · · ·
+  3 · · · · · · · ·
+  2 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+  1 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+    a b c d e f g h
+
+Enter a move like g1h3:
+
+An example interaction with the engine (responses have #):
+
+uci
+# id name Andoma
+# id author Andrew Healey & Roma Parramore
+# uciok
+position startpos moves e2e4
+go
+# bestmove g8f6

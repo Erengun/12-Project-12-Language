@@ -1,0 +1,12 @@
+Build a ide
+Software requires three simple steps:
+
+Edit the code.
+Compile the code.
+Run the code.
+
+https://www.codershubb.com/wp-content/uploads/2021/05/ide-2.png
+
+Thus you need a text editor and a code compiler. 
+Anything else is a bonus, and thus the features of an IDE are a bonus. 
+In fact the mark of a good programmer is one that can write software with a minimum of tools. 

@@ -1,0 +1,2 @@
+Create a Guees the number game.
+ Players receive feedback on whether their guess is greater than or less than the mystery number. The player continues to make a series of educated guesses to further eliminate potential numbers until the mystery number can be solved. 
